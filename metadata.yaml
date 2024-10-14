@@ -1,0 +1,38 @@
+_repo: A-escrava-Isaura-b-romance_74475
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Guimarães, Bernardo
+    aliases:
+    - Guimaraes, Bernardo
+    - Silva Guimarães, Bernardo Joaquim da
+    birthdate: 1825
+    deathdate: 1884
+    gutenberg_agent_id: '57520'
+    url: http://www.gutenberg.org/2009/agents/57520
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Bernardo_Guimar%C3%A3es
+    - https://pt.wikipedia.org/wiki/Bernardo_Guimar%C3%A3es
+description: 'Wikipedia page on this work: https://pt.wikipedia.org/wiki/A_Escrava_Isaura'
+gutenberg_issued: '2024-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74475'
+language: pt
+pgterms:marc904: https://digital.bbm.usp.br/handle/bbm/7584
+pgterms:marc905: 20240920063113guimares
+pgterms:marc906: '1875'
+pgterms:marc907: BR
+production_note: Laura Natal Rodrigues (Images generously made available by Brasiliana
+  Digital.)
+publication_note: '  $aRio de Janeiro :$bB. L. Garnier, $c1875.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brazilian fiction -- 19th century'
+- !lcsh 'Slavery -- Brazil -- 19th century -- Fiction'
+- !lcc 'PQ'
+- GITenberg
+title: 'A escrava Isaura : $b romance'
+url: http://www.gutenberg.org/ebooks/74475
