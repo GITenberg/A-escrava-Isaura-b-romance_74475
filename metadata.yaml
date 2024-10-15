@@ -1,5 +1,8 @@
 _repo: A-escrava-Isaura-b-romance_74475
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74475-h/images/cover.jpg
 creator:
   author:
     agent_name: Guimarães, Bernardo
@@ -14,6 +17,8 @@ creator:
     - https://en.wikipedia.org/wiki/Bernardo_Guimar%C3%A3es
     - https://pt.wikipedia.org/wiki/Bernardo_Guimar%C3%A3es
 description: 'Wikipedia page on this work: https://pt.wikipedia.org/wiki/A_Escrava_Isaura'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74475#A-escrava-Isaura-b-romance
 gutenberg_issued: '2024-09-25'
 gutenberg_type: Text
 identifiers:
